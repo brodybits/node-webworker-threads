@@ -12,10 +12,7 @@ homepage: \https://github.com/audreyt/node-webworker-threads
 bugs:
   url: \http://github.com/audreyt/node-webworker-threads/issues
   email: \audreyt@audreyt.org
-licenses: [
-    { type: "Apache License, Version 2.0", url: "http://www.apache.org/licenses/LICENSE-2.0" }
-    { type: 'MIT', url: "file:LICENSE" }
-]
+license: "MIT OR Apache-2.0"
 repository:
   type: \git
   url: \http://github.com/audreyt/node-webworker-threads.git
